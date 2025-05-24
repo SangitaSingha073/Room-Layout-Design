@@ -1,0 +1,21 @@
+
+    Room Layout Generator Report
+    ===========================
+    Dataset Size: 10000 samples
+    Model: Random Forest Regressor
+    Training Scores:
+    - X-coordinate: 0.10
+    - Y-coordinate: 0.08
+    - Width: 0.21
+    - Height: 0.18
+    
+    Preprocessing:
+    - Standard scaling applied to numerical features
+    - Room types converted to numerical values
+    
+    Output:
+    - 10000 JSON files in 'synthetic_layouts' folder
+    - Sample layout saved as 'sample_layout.json' and 'generated_layout.png'
+    - Models saved in 'models/' directory
+    - Scaler saved as 'models/scaler.joblib'
+    
