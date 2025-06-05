@@ -56,18 +56,16 @@ The model predicts room positions (`x`, `y`), sizes (`width`, `height`), and ens
 
 ## Usage:
   ### Running the Main Script
-  The `main.py` script generates synthetic data, trains the model, and creates a sample room layout.
-  Run the script:
+    The `main.py` script generates synthetic data, trains the model, and creates a sample room layout.
+    Run the script:
     ```bash
     python main.py
   ### Running the Predictor Script
-  The predictor.py script allows you to generate custom room layouts based on user input.
-  Runn the script:
+    The predictor.py script allows you to generate custom room layouts based on user input.
+    Runn the script:
     ```bash
     python predictor.py
-
 ## Output Files : 
-
 The project generates the following output files:
 
 - **`synthetic_layouts/`**:
