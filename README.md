@@ -60,11 +60,13 @@ The model predicts room positions (`x`, `y`), sizes (`width`, `height`), and ens
     Run the script:
     ```bash
     python main.py
+    ```
   ### Running the Predictor Script
     The predictor.py script allows you to generate custom room layouts based on user input.
     Runn the script:
     ```bash
     python predictor.py
+    ```
 ## Output Files : 
 The project generates the following output files:
 
